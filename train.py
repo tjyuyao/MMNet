@@ -20,7 +20,6 @@ from evaluation_tools import evaluation
 
 from options import TrainOptions as Options
 import datetime
-import cv2
 
 
 def setup_seed(seed):

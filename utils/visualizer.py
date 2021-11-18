@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import torch.nn.functional as F
 import torch.nn as nn
 import numpy as np
-import cv2
 from datetime import datetime
 from matplotlib import gridspec
 
